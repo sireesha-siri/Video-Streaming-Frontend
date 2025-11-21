@@ -1,7 +1,6 @@
 import axios from 'axios';
 
-// const API_URL = 'http://localhost:5000/api';
-const API_URL = 'https://video-streaming-backend-2mg8.onrender.com';
+const API_URL = 'http://localhost:5000/api';
 
 // Create axios instance
 const api = axios.create({
